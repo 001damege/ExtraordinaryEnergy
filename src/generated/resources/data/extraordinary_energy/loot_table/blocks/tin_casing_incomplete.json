@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:block",
+  "pools": [
+    {
+      "bonus_rolls": 0.0,
+      "conditions": [
+        {
+          "condition": "minecraft:survives_explosion"
+        }
+      ],
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "extraordinary_energy:tin_casing_incomplete"
+        }
+      ],
+      "rolls": 1.0
+    }
+  ],
+  "random_sequence": "extraordinary_energy:blocks/tin_casing_incomplete"
+}
